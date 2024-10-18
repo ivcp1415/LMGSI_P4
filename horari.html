@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<style>
+    table, th, td, h1 {
+        font: Verdana; 
+    }
+    table, th, td {
+          border-collapse: collapse;
+          border:1px solid black;
+          margin:auto;
+          text-align: center;
+        }
+    th {
+          width: 100px;
+          background-color: rgb(29, 201, 80);
+          text-align: center;
+          font-weight: bold; 
+          font-size: 25px;
+          padding: 30px 
+    }
+    
+    h1 {
+    color:rgb(255,0,0);
+    text-align: center;
+    font-weight: bold;
+
+    }
+
+    caption {
+    color: rgb(24,25,222);
+    font-size: 25px;
+    }
+    /* class selector */
+    td.LMSGI {
+        background-color: yellow;
+        td. 
+    }
+    td.BD {
+        background-color: blue;
+    }
+    td.PED {
+        background-color: brown;
+    }
+    td.IPOI {
+        background-color: green;
+    }
+    td.DIW {
+        background-color: orange;
+    }
+    td.SI{
+        background-color: red;
+    }
+    td.TU {
+        background-color: silver;
+    }
+
+    td.hores {
+        font-size: 20px;
+        padding: 10px;
+        width: 180px;
+    }
+
+    
+
+    /* id selector, id="" and #("") for selecting*/
+    #descans {
+        font-size: 20px;
+        padding: 15px;     
+    }
+
+
+</style>
+<head>
+
+    <h1> Horari </h1>
+
+</head>
+
+<table> 
+    <caption> Curs 24-25 </caption>
+    <tr>
+        <th> </th>
+        <th>dilluns</th>
+        <th>dimarts</th>
+        <th>dimecres</th>
+        <th>dijous</th>
+        <th>divendres</th>
+    </tr>
+    <tr> 
+        <td class="hores">8:00 - 9:00</td> 
+        <td rowspan="2"; class ="LMSGI"> LMSGI</td> 
+        <td rowspan="2"; class ="BD">BD</td> 
+        <td rowspan="2"; class ="PED">P+ED</td> 
+        <td rowspan="2"; class ="SI">SI</td> 
+        <td rowspan="2"; class = "BD">BD</td> 
+    </tr>
+    <tr> 
+        <td class ="hores">9:00 - 10:00</td> 
+        
+    </tr>
+    <tr> 
+        <td class="hores">10:00 - 11:00</td> 
+        <td class ="PED">P+ED</td>
+        <td class ="TU">TUT</td> 
+        <td>AN</td> 
+        <td class = "PED">P+ED</td> 
+        <td class = "PED">P+ED</td> 
+    </tr>
+    <tr> 
+        <td colspan="6"; id ="descans">Descans</td> 
+         
+    </tr>
+    <tr> 
+        <td class="hores">11:30 - 12:30</td> 
+        <td class = "PED">P+ED</td> 
+        <td rowspan="2"; class = "DIW">DIW</td> 
+        <td rowspan="2"; class = "IPOI">IPOI</td> 
+        <td rowspan="2"; class = "PED">P+ED</td> 
+        <td class = "PED">P+ED</td> 
+    </tr>
+    <tr> 
+        <td class="hores">12:30 - 13:30</td> 
+        <td class = "DIW">DIW</td> 
+        <td class = "SI">SI</td> 
+    </tr>
+</table>
+
+
+
+</html>

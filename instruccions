@@ -1,0 +1,16 @@
+1. cal combinar cel·les del descans i cel·les d'un mateix módul abans i després del descans 
+  colspan
+
+selector classe en el css, per cada módul.
+selector identificador, per 
+>> mida 20px
+>>padding 15px
+
+definir classe hores per donar estils a les cel·les amb hores:
+>> 20px
+>>padding 10px
+>< amplada 180 px
+
+capçaleres tinguin un padding de 30 i mida de lletra 25
+text align center a tota la taula
+canviar font de la lletra : verdana 

@@ -1,0 +1,83 @@
+/*Estils*/
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title> ITIC Buttletí meteorològic </title>
+    </head>
+       
+    <body>
+    
+        <style> 
+        
+        h2 {
+            background-color: rgb(179,218,241)
+        }
+
+        </style>
+        
+        <h1 style="background-color:#84a5b8;"> Buttletí Meteorològic </h1>
+        <h2> El temps a Catalunya i el Mediterrani </h2>
+
+        <h3> Precipitacions i nuvositat: emergència d'un sistema anticiclònic estacionari a Catalunya sencera, mentre que el tàlveg d'aquests últims dies es desplaça cap als Alps, on serà frenat</h3>
+
+        <p1> Pròximes 48 hores sense precipitació important, amb excepcions per a algunes zones encara afectades pel sistema de baixes pressions instal·lat al llarg dels últims dies, que ha deixat durant la matinada del 3 d'ocutbre un màxim de precipitacions a tot el litoral i prelitoral català. Amb aplecs condensats de núvols baixos a algunes parts del litoral o prelitoral, podrien deixar el 4 d'octubre alguns ruixats esporàdics. Al llarg del matí, la meitat nord-est s'anirà cobrint de núvols, mentre que clarejarà a zones de depressió i gran part de l'Alt Pirineu, excepte a la seva vessant nord-occidental on el front estacionari, generalitzat a Catalunya degut a les condicions antici-ciclòniques, no hi farà encara la seva aparició. Les altes pressions encunyen un tàlveg, que per convergència desplaçarà una massa humida cap a la vessant nord del Meditarrani i hi regirà el temps inestable, amb precipitació persistent. Aquest tàlveg, que deixarà grans precipitacions a les regions més meridionals dels Alps, amb insistència perllongada a les cadenes muntanyoses de la península itálica, precisament és el que ens permetrà gaudir d'un cap de setmana lliure de precipitacions, encara que no pas de nuvositat. 
+        </p1>
+    
+        <h3> Temperatura: subsidència d'embossaments d'altura a nivell de mar faran baixar lleugerament les màximes al Pirineu i de manera més dramática al litoral català.
+        </h3>
+
+        <p1> Tot i trobar-nos encara en un règim climàtic de temperatures dins de l'ordre acostumat per a aquestes altures de l'any, amb un octubre sempre caracteritzat per inestabilitat, baixaran les temperatures a causa del desplaçament vertical de l'aire fred per diferència de pressions entre el sector central del mediterrani i la península ibérica, litoral ibèric i Vall d'Aran. Aquest fenomen, conegut com a subsidència, que agreujarà en certs casos l'efecte de tàlveg del desplaçament horitzontal del sistema de baixes pressions, fent les pluges més intenses allà on hi hagi precipitació, provocarà també un descens de les temperatures al front estacionari dominant del Principat. Així, tindrem mínimes encara més baixes que de costum a la plana, on l'inversió térmica plantejarà una baixada respecte la mitjana mensual però una lleugera pujada de la mitjana de mínimes a zones d'altura, on les gelades no hi seran pràcticament presents, salvat de zones d'excepció climatológica (zones ombrívoles i algunes valls del Pirineus aïllades). En aquest sentit, la isoterma de 0º es trobarà per sobre dels 3000 a gran part del Pirineu central.
+        </p1>
+         
+        <img src="https://services.meteored.com/img/models/ecmwf/ECMWF_036_ES_SFC_es-ES_es.png" alt="Mapa Espanya ECMWF" style="float:middle">
+        
+        <h3> Fonts de predicció meteorològiques </h3>
+
+        <ol>
+            <li> 
+                <a href="https://www.meteo.cat/prediccio/general">Servei de predicció del Meteocat</a>
+            </li>
+            <li>
+                <a href="https://www.tiempo.com/modelos/">Model ECMWF Espanya</a>
+            </li>
+            <li> 
+                <a href="https://www.tiempo.com/modelos/es-europa-ecmwf-87.htm">Model ECMWF EU</a>
+            
+        </ol>
+
+        <h3> Altres buttletins d'interès </h3>
+
+        <ul> 
+            <li> Meteo Suïssa: temps estable al Mitelland i nord-oest, i tempestes més enllà dels Alps</li>
+            <li> Sobre el pròxim paradigma de models meteorològics: es podran utilitzar també com a models climàtics? </li>
+            <li> Parlem amb Tomàs Molina: "Aquest hivern, com sempre, ens pelarem de fred, però a algunes parts menys. Jo personalment no ho notaré pas perquè tinc pasta"</li>
+        </ul>
+        <h3> Glosari de termes emprats </h3>
+         <dl>
+            <dt> Anticicló</dt>   
+            <dd>- L'anticicló es tracta d'un fenomen meteorològic que es pot definir com una circulació de vents a gran escala al voltant d'una regió central d'altes pressions atmosfèriques. L'aire d'un anticicló és més estable que l'aire que l'envolta i davalla sobre el sòl des de les capes altes de l'atmosfera, produint-se un fenomen anomenat subsidència que limita la formació de núvols.
+           </dd>
+
+           <dt> Subsidència </dt>
+           <dd>- És el descens de l'aire cap a nivells atmosfèrics inferiors que es produeix com a resposta a mecanismes que el forcen a anar cap avall per la densitat més gran de l'aire fred. La subsidència forma una àrea anticiclònica de bon temps (sense nuvolositat per l'absència de vapor d'aigua) i dóna origen a una divergència horitzontal de l'aire a les capes inferiors. L'aire en subsidència es contrau i s'asseca i genera una forta inestabilitat atmosfèrica al voltant d'aquesta àrea de subsidència, en augmentar el desplaçament convectiu de la massa d'aire a la superfície que és més calenta i humida, tal i com es produeix als ruixats persistents.
+           </dd>
+
+           <dt> Tàlveg </dt>
+           <dd>- En meteorologia, un tàlveg és una regió allargada en la qual la pressió atmosfèrica és relativament baixa. Els tàlvegs solen estar associats amb fronts i es poden trobar a la superfície, a una certa altitud i, de vegades, als dos llocs. En la majoria de casos van acompanyats de núvols, ruixats i variacions sobtades de la direcció del vent, especialment després del pas del tàlveg. 
+           </dd>
+
+           <dt> Front estacionari </dt>
+           <dd>- Un front estacionari és un límit entre dues masses d'aire, de les quals cap no és prou forta per a substituir l'altra. Una varietat ampla de condicions climàtiques poden ser trobades al llarg d'aquest tipus de front, però generalment els núvols i la precipitació perllongada són les més freqüents.
+           </dd>
+
+        </dl>
+           
+        <h3>
+            <a href="horari.html"> Horari </a>
+        </h3>
+ 
+        <p2> Text escrit per Ivan Cuartero Pérez </p2>
+    </body>
+</html>
